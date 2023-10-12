@@ -1,0 +1,72 @@
+body{
+    margin: 10px;
+    padding: 0;
+}
+div{
+    margin: 2px 0px 2px 0px;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(102, 150, 255);
+}
+.sub-container1{
+    display: flex;
+    min-height: 50vh;
+}
+.sub-sub-container2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.box1{
+    background-color: crimson;
+    flex: 1;
+
+}
+.box2{
+    background-color: rgb(204, 26, 204);
+    flex: 3;
+}
+.sub-sub-container1{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-right: 5px;
+}
+.box3{
+    background-color: rgb(190, 39, 153);
+    flex: 2;
+}
+.box4{
+    background-color: rgb(41, 198, 198);
+    flex: 1;
+}
+.sub-container2{
+    display: flex;
+    height: 25vh;
+}
+.box5{
+    background-color: rgb(85, 247, 85);
+    flex: 3;
+    margin-right: 5px;
+}
+.box6{
+    background-color: rgb(211, 245, 101);
+    flex: 1;
+}
+footer{
+    background-color: burlywood;
+    width: 100%;
+    height: 16vh;
+}
+.nzn{
+    display: flex;
+    height: 25vh;
+
+}
+
+
+
+/* --- PROBLEMOS SU KONTEINERIAIS, PASIKLAUSTI --- */

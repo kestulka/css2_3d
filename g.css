@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8,.item9,.item10,.item11,.item12{
+    background-color: crimson;
+    min-height: 20vh;
+    flex: 1 1 300px;
+    margin: 10px;
+}
